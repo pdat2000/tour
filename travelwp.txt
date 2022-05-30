@@ -1,0 +1,18 @@
+http://mauweb.monamedia.net/travelwp/
+
+I.Bố cục
+1.heading -->0k
+	-navgation : img + menu
+	-image -->OK
+3.Banner
+2.Containter
+	-slider --ok
+	-content: tour ---ok
+	-content: mona tralve --ok
+	-content: thành quả mona tralve --ok
+	-content: tour du lịch --ok
+	-content: tour giảm giá --ok
+	-content: review-->OK
+3.fotter
+	-footer-->OK
+	-footer email-->OK
