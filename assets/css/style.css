@@ -204,7 +204,7 @@ html {
     position: relative;
     top:-110px;
     width: 100%;
-    background: url('/assets/img/slider1.jpeg') top center/cover no-repeat;
+    background: url('../img/slider1.jpeg') top center/cover no-repeat;
     padding-top: 50%;
 }
 .slider-content {
@@ -294,7 +294,7 @@ html {
     transition: opacity 2s ease;
 }
 .container__tour {
-    background: url('/assets/img/background-tour.jpg') top center/cover  no-repeat;
+    background: url('../img/background-tour.jpg') top center/cover  no-repeat;
 }
 .container__tour-overlay {
     width: 100%;
@@ -393,7 +393,7 @@ html {
     padding-bottom: 4px;
 }
 .container__place {
-    background: url('/assets/img/plane.jpg') top center/cover  no-repeat;
+    background: url('../img/plane.jpg') top center/cover  no-repeat;
 }
 .container__section-place {
     padding-top: 104px;
@@ -544,7 +544,7 @@ html {
 }
 .container__review-section {
     margin: 80px 0 0;
-    background: rgba(255, 179, 0, 0.8) url('/assets/img/bg-review.png') top center/cover  no-repeat;
+    background: rgba(255, 179, 0, 0.8) url('../img/bg-review.png') top center/cover  no-repeat;
     background-origin: content-box;
 }
 .container__review-peoplereview {
@@ -640,7 +640,7 @@ html {
 
 }
 .footer__menu {
-    background: url('/assets/img/footer1.jpg')  top center/cover  no-repeat;
+    background: url('../img/footer1.jpg')  top center/cover  no-repeat;
 }
 .footer__menu-overlay {
     width: 100%;
@@ -773,7 +773,7 @@ html {
     color: #fff;
 }
 .container__email {
-    background: url('/assets/img/footer2.jpg') top center/cover no-repeat;
+    background: url('../img/footer2.jpg') top center/cover no-repeat;
 }
 .container__section-email {
     padding-top: 80px;
