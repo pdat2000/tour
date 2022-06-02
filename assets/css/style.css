@@ -434,7 +434,7 @@ html {
     height: 262px;
 }
 .container__discount {
-    background: url('/assets/img/discount.jpg') top center/cover  no-repeat;
+    background: url('../img/discount.jpg') top center/cover  no-repeat;
 }
 .container__discount .containter__content {
     padding: 0 164px;
